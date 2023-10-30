@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,archie
+network:x:90:archie
+power:x:98:archie
+adm:x:999:archie
+wheel:x:998:archie
+uucp:x:987:archie
+optical:x:990:archie
+rfkill:x:983:archie
+video:x:986:archie
+storage:x:988:archie
+audio:x:995:archie
+users:x:985:archie
+nopasswdlogin:x:966:archie
+autologin:x:967:archie
+archie:x:1000:

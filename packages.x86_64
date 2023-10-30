@@ -1,0 +1,51 @@
+# system
+linux
+base
+systemd
+nftables
+pipewire-pulse
+libnotify
+linux-firmware
+pam
+usbutils
+swaylock 
+swayidle 
+swaybg 
+swaylock-effects
+qt6-wayland
+mkinitcpio 
+mkinitcpio-archiso
+llvm
+cryptsetup
+zsh
+networkmanager
+edk2-shell
+
+# utils
+bluez
+mlocate
+wl-clipboard
+nerdfonts
+vim
+git
+
+# dev
+rustup
+jdk-openjdk
+python
+python-pip
+
+# base softwares
+thunar
+zathura
+zathura-pdf-poppler
+zathura-djvu
+thunderbird
+qutebrowser
+bluetuith
+trash-cli
+ranger
+imv
+neovim
+alacritty
+
