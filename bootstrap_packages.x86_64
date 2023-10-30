@@ -10,15 +10,15 @@ pam
 fprintd
 usbutils
 sway
-swaylock 
-swayidle 
-swaybg 
-swaylock-effects
+# swaylock 
+# swayidle 
+# swaybg 
+# swaylock-effects
 qt6-wayland
 libxcb
 qt5-base
 qt5-wayland
-mkinitcpio 
+# mkinitcpio 
 mkinitcpio-archiso
 llvm
 cryptsetup

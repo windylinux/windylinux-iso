@@ -8,12 +8,12 @@ libnotify
 linux-firmware
 pam
 usbutils
-swaylock 
-swayidle 
-swaybg 
-swaylock-effects
+# swaylock 
+# swayidle 
+# swaybg 
+# swaylock-effects
 qt6-wayland
-mkinitcpio 
+# mkinitcpio 
 mkinitcpio-archiso
 llvm
 cryptsetup
@@ -25,7 +25,7 @@ edk2-shell
 bluez
 mlocate
 wl-clipboard
-nerdfonts
+# nerdfonts
 vim
 git
 
@@ -42,7 +42,7 @@ zathura-pdf-poppler
 zathura-djvu
 thunderbird
 qutebrowser
-bluetuith
+# bluetuith
 trash-cli
 ranger
 imv
